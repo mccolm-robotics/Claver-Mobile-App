@@ -1,10 +1,10 @@
-# claver
+# Claver Mobile App
 
-Claver Control Center
+An app for interacting with and configuring the Claver Message Board
 
 ## Getting Started
 
-This project is a starting point for a Flutter application. This mobile application will be used to control features of the Claver Message Board.
+This project is a starting point for a Flutter application. This mobile application will be used to control features of the Claver Message Board. This app is an early development platform.
 
 
 #### Donations
