@@ -1,12 +1,12 @@
 # Claver Mobile App
 
-Claver Mobile is an Android and IOS application that runs on the Claver Network Service. It is used for configuring settings on the Claver Message Board and for uploading data to the Claver servers. Features include:
+Claver Mobile is an Android and IOS application that connects to the Claver Network. It is used for configuring settings on the Claver Message Board and for uploading data to the Claver servers. Features include:
 
 1. Uploading photos and managing photo collections
 2. Managing account preferences
 3. Configuring Maestro gestures
 
-**For more information, check out the Claver website and the Claver wiki.**
+**For more information, check out the [Claver website](https://mccolmrobotics.com)  and the [Claver wiki](/mccolm-robotics/Claver-Mobile-App/wiki).**
 
 ## Quickstart
 - On the PlayStore:
