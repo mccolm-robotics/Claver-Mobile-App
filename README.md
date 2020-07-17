@@ -16,7 +16,7 @@ Claver Mobile is an Android and IOS application that connects to the Claver Netw
 
 <table align="center">
   <thead>
-    <tr><th> Technical Docs </th><th>  Setup Guide  </th><th> Roadmap </th></tr>
+    <tr><th> Technical Docs </th><th>  Setup Guide  </th><th> <a href="/mccolm-robotics/Claver-Mobile-App/wiki/Project-Roadmap">Roadmap</a> </th></tr>
   </thead>
   <tbody>
     <tr><td><img src="docs/img/storage-icon.png"></td><td><img src="docs/img/setup-icon.png"></td><td> <img src="docs/img/roadmap-icon.png"> </td></tr>
