@@ -1,0 +1,30 @@
+[
+  {
+    "subject": "My first message",
+    "body": "This is a long string of text that is used to pad out data for the body field. This is a long string of text that is used to pad out data for the body field."
+  },
+  {
+    "subject": "My second message",
+    "body": "This is a long string of text that is used to pad out data for the body field"
+  },
+  {
+    "subject": "You won the lottery",
+    "body": "This is a long string of text that is used to pad out data for the body field"
+  },
+  {
+    "subject": "Reading all the messages",
+    "body": "This is a long string of text that is used to pad out data for the body field"
+  },
+  {
+    "subject": "Watch for squalls",
+    "body": "This is a long string of text that is used to pad out data for the body field"
+  },
+  {
+    "subject": "A random entry in JSON",
+    "body": "This is a long string of text that is used to pad out data for the body field"
+  },
+  {
+    "subject": "Serializable JSON Entry",
+    "body": "This is a long string of text that is used to pad out data for the body field"
+  }
+]
