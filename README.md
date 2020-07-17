@@ -6,7 +6,7 @@ Claver Mobile is an Android and IOS application that connects to the Claver Netw
 2. Managing account preferences
 3. Configuring Maestro gestures
 
-**For more information, check out the [Claver website](https://mccolmrobotics.com)  and the [Claver wiki](/mccolm-robotics/Claver-Mobile-App/wiki).**
+**For more information, check out the [Claver website](https://mccolmrobotics.com)  and the [Claver wiki](https://github.com//mccolm-robotics/Claver-Mobile-App/wiki).**
 
 ## Quickstart
 - On the PlayStore:
@@ -16,10 +16,10 @@ Claver Mobile is an Android and IOS application that connects to the Claver Netw
 
 <table align="center">
   <thead>
-    <tr><th> Technical Docs </th><th>  Setup Guide  </th><th> <a href="https://github.com/mccolm-robotics/Claver-Mobile-App/wiki/Project-Roadmap">Roadmap</a> </th></tr>
+    <tr><th> <a href="https://github.com/mccolm-robotics/Claver-Mobile-App/wiki/Project-Roadmap">Feature Guide</a> </th><th>  <a href="https://github.com/mccolm-robotics/Claver-Mobile-App/wiki/Project-Roadmap">Settings</a>  </th><th> <a href="https://github.com/mccolm-robotics/Claver-Mobile-App/wiki/Project-Roadmap">Roadmap</a> </th></tr>
   </thead>
   <tbody>
-    <tr><td><img src="docs/img/storage-icon.png"></td><td><img src="docs/img/setup-icon.png"></td><td> <img src="docs/img/roadmap-icon.png"> </td></tr>
+    <tr><td><img src="docs/img/about-icon.png"></td><td><img src="docs/img/settings-icon.png"></td><td> <img src="docs/img/roadmap-icon.png"> </td></tr>
   </tbody>
 </table>
 
