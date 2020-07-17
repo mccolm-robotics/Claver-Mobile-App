@@ -13,7 +13,8 @@ Claver Mobile is an Android and IOS application that runs on the Claver Network 
 - On the AppStore:
 
 ## Find out more
-
+<center>
+<p align="center">
 <table style="margin-left:auto;margin-right:auto;">
   <thead>
     <tr><th> Technical Docs </th><th>  Setup Guide  </th><th> Roadmap </th></tr>
@@ -22,7 +23,8 @@ Claver Mobile is an Android and IOS application that runs on the Claver Network 
     <tr><td><img src="docs/img/storage-icon.png"></td><td><img src="docs/img/setup-icon.png"></td><td> <img src="docs/img/roadmap-icon.png"> </td></tr>
   </tbody>
 </table>
-
+</p>
+</center>
 
 #### Donations
 * [Buy us a Coffee](https://ko-fi.com/mccolmrobotics)
