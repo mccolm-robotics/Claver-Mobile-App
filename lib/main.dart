@@ -10,7 +10,7 @@ class MyApp extends StatelessWidget {
     @override
     Widget build(BuildContext context) {
         return MaterialApp(
-            title: 'Claver App',
+            title: 'Claver Mobile App',
             theme: ThemeData(primarySwatch: Colors.blueGrey, accentColor: Colors.red),
             home: MessageList(title: 'Claver Control App')
         );
