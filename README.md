@@ -28,7 +28,7 @@ Claver Mobile is an Android and IOS application that connects to the Claver Netw
 * [Buy us a Coffee](https://ko-fi.com/mccolmrobotics)
 
 #### License
-Copyright 2020© McColm Robotics
+Copyright ©2020 McColm Robotics
 
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
 
