@@ -17,11 +17,17 @@ class Message {
   //       body = json['body'];
         => _$MessageFromJson(json);
 
-    static Future<List<Message>> browse() async {
+    static Future<List<Message>> browse({status = 'important'}) async {
 //        String content = await rootBundle.loadString('data/message.json');
-        http.Response response = await http.get('https://run.mocky.io/v3/cdc6bd40-3c6b-4190-a2f6-be6c4ae9aa26');
 
-        await Future.delayed(Duration(seconds: 3));
+        String url = status == 'important'
+            ? 'https://run.mocky.io/v3/759cfcef-a799-43e1-b880-3772c72cb38b'
+            : 'https://run.mocky.io/v3/cdc6bd40-3c6b-4190-a2f6-be6c4ae9aa26';
+
+        http.Response response = await http.get(url);
+
+
+        await Future.delayed(Duration(seconds: 1));
 
         String content = response.body;
         List collection = json.decode(content);

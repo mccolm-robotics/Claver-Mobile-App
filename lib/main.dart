@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'package:claver/MessageList.dart';
+import 'App.dart';
 
 void main() {
     runApp(MyApp());
@@ -12,7 +12,7 @@ class MyApp extends StatelessWidget {
         return MaterialApp(
             title: 'Claver Mobile App',
             theme: ThemeData(primarySwatch: Colors.blueGrey, accentColor: Colors.red),
-            home: MessageList(title: 'Claver Control App')
+            home: App()
         );
     }
 }
